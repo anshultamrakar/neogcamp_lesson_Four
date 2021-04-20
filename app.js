@@ -1,15 +1,15 @@
 var btnTranslate = document.querySelector("#btn-translate");
-var textInput = document.querySelector("#text-input");
-var outputDiv = document.querySelector("#output");
+// function clickHandler() {
+//     console.log("clicked!");
+   
+// };
 
-console.log(txtInput)
+// btnTranslate.addEventListener("click", clickHandler)
 
-function clickHandler () {
-    console.log("clicked!");
-    console.log("input", txtInput.value);
-    outputDiv.innerText = "ajsjsjsjsjsjsj  " + txtInput.value;
+
+
+var bb = document.querySelector("dibbu");
+bb.addEventListener('click',handler);
+function handler(){
+    console.log('hello');
 }
-
-
-btnTranslate.addEventListener("click", clickHandler)
-
