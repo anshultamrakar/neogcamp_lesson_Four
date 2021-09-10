@@ -5,7 +5,7 @@ Banana Talk Made in Vanilla JS in a live class with Tanay Pratap
 
 live Demo👇
 
-banannaaatalk.netlify.app
+https://banannaaatalk.netlify.app/
 
 
 
